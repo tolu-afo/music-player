@@ -6,6 +6,8 @@
 
 ### This project will be accepted if a file can be typed into a input, and then subsequently played and paused. This most all be in a single *.py file. 
 
+Completed 3:52:00 on 05/13/2023
+
 Rules of Engagement:
 1. I have 8 hours to complete the Project
 2. All code must be done on stream.
